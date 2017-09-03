@@ -1,5 +1,6 @@
 import grpc
-import work_leave_pb2 as pb
+
+import leave_pb2 as pb
 
 
 def main():
